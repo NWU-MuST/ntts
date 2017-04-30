@@ -1,7 +1,7 @@
 IsiZulu text resources for TTS
 ===============================
 
-This directory contains text resources intended for R&D of isiZulu TTS systems. Files prefixed with `lwazi2_` originate from the [Lwazi2 IsiZulu TTS corpus][rma:zul].
+This directory contains text resources intended for R&D of isiZulu TTS systems. Files prefixed with `lwazi2_` originate from the [Lwazi2 IsiZulu TTS corpus][rma:zul]. The prototypes require software from [here](https://github.com/NWU-MuST/ttslab2).
 
  - `lwazi2_utts.zul.automorph.scm` is the isiZulu portion of prompts with simplified automatic morphological decomposition during the NTTS project (see top level `README.md`).
  - `lwazi2_utts.zul.manualmorph.scm` is the isiZulu portion of prompts with simplified manual morphological decomposition during the NTTS project (see top level `README.md`).

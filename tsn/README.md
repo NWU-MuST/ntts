@@ -1,7 +1,7 @@
 Setswana text resources for TTS
 ===============================
 
-This directory contains text resources intended for R&D of Setswana TTS systems.  Files prefixed with `lwazi2_` originate from the [Lwazi2 Setswana TTS corpus][rma:tsn].
+This directory contains text resources intended for R&D of Setswana TTS systems.  Files prefixed with `lwazi2_` originate from the [Lwazi2 Setswana TTS corpus][rma:tsn]. The prototypes require software from [here](https://github.com/NWU-MuST/ttslab2).
 
  - `lwazi2_utts.tsn.scm` is the Setswana portion of the corpus annotated for vowel height during the NTTS project (see top level `README.md`).
  - `lwazi2_utts.tsn.contfunc.punct.tsv` is the Setswana portion of the corpus annotated for _content_ and _function_ word distinctions (with punctuation tokens).
