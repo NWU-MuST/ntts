@@ -346,7 +346,7 @@ etiek	NOUN
 .	PUNCT
 
 Vel	NOUN
-wat	SCONJ
+wat	PRON
 aan	ADP
 bloed	NOUN
 blootgestel	ADJ
@@ -694,7 +694,7 @@ groep	NOUN
 het	AUX
 aansienlike	ADJ
 insetkoste	NOUN
-wat	SCONJ
+wat	PRON
 in	ADP
 buitelandse	ADJ
 valuta	NOUN
@@ -726,7 +726,7 @@ ouderdom	NOUN
 
 Ontspan	VERB
 senuweestelsel	NOUN
-wat	SCONJ
+wat	PRON
 hoofpyne	NOUN
 meebring	VERB
 .	PUNCT
@@ -829,7 +829,7 @@ Dis	AUX
 nou	ADV
 jou	DET
 werk	NOUN
-wat	SCONJ
+wat	PRON
 ek	PRON
 jou	PRON
 gee	VERB
@@ -875,7 +875,7 @@ kwotasie	NOUN
 Dit	PRON
 is	AUX
 hulle	PRON
-wat	SCONJ
+wat	PRON
 die	DET
 Seun	NOUN
 aanskou	VERB
@@ -1114,7 +1114,7 @@ met	ADP
 ander	DET
 u	DET
 lewenswysheid	NOUN
-wat	SCONJ
+wat	PRON
 met	ADP
 u	DET
 jare	NOUN
@@ -1409,7 +1409,7 @@ wees	AUX
 
 Ek	PRON
 wonder	VERB
-wat	SCONJ
+wat	PRON
 jy	PRON
 vanaand	ADV
 geëet	VERB
@@ -1444,7 +1444,7 @@ die	DET
 kind	NOUN
 alles	PRON
 leer	VERB
-wat	SCONJ
+wat	PRON
 hy	PRON
 geleer	VERB
 het	AUX
@@ -1692,7 +1692,7 @@ word	AUX
 'n	DET
 afspraak	NOUN
 soos	ADP
-wat	SCONJ
+wat	PRON
 'n	DET
 vergadering	NOUN
 een	NUM
@@ -1715,7 +1715,7 @@ Kom	AUX
 lees	VERB
 bietjie	ADV
 oor	ADP
-wat	SCONJ
+wat	PRON
 ons	PRON
 glo	VERB
 en	CCONJ
@@ -1851,7 +1851,7 @@ oor	ADP
 sy	DET
 voete	NOUN
 soos	ADP
-wat	SCONJ
+wat	PRON
 hy	PRON
 Komrij	PROPN
 prys	VERB
@@ -2147,7 +2147,7 @@ verkleur	VERB
 
 Die	DET
 saad	NOUN
-wat	SCONJ
+wat	PRON
 daar	ADV
 gesaai	VERB
 word	AUX
@@ -2182,7 +2182,7 @@ bepaal	VERB
 die	DET
 fisieke	ADJ
 eienskappe	NOUN
-wat	SCONJ
+wat	PRON
 jy	PRON
 erf	VERB
 .	PUNCT
@@ -2361,7 +2361,7 @@ word	AUX
 .	PUNCT
 
 Al	DET
-wat	SCONJ
+wat	PRON
 aanstoot	NOUN
 gee	VERB
 is	AUX
@@ -2496,7 +2496,7 @@ Dis	AUX
 so	DET
 'n	DET
 meisie	NOUN
-wat	SCONJ
+wat	PRON
 so	ADV
 afgaan	VERB
 so	ADV
@@ -2540,7 +2540,7 @@ jy	PRON
 soek	VERB
 deskundige	ADJ
 leiding	NOUN
-wat	SCONJ
+wat	PRON
 dit	PRON
 vir	ADP
 jou	PRON
@@ -2668,7 +2668,7 @@ nie	PART
 
 Elke	DET
 asemteug	NOUN
-wat	SCONJ
+wat	PRON
 jy	PRON
 gee	VERB
 bevat	VERB
@@ -2792,7 +2792,7 @@ sit	VERB
 .	PUNCT
 
 Mense	NOUN
-wat	SCONJ
+wat	PRON
 glo	VERB
 in	ADP
 gebed	NOUN
@@ -2939,7 +2939,7 @@ eenkant	ADV
 
 Vyf	NUM
 gesprekke	NOUN
-wat	SCONJ
+wat	PRON
 aangevoer	VERB
 word	AUX
 verdien	VERB
@@ -3051,7 +3051,7 @@ geopen	VERB
 
 Dis	AUX
 seker	ADV
-hoekom	SCONJ
+hoekom	PRON
 ek	PRON
 gisteraand	ADV
 so	ADV
@@ -3476,7 +3476,7 @@ die	DET
 mees	ADV
 komplekse	ADJ
 drummer	NOUN
-wat	SCONJ
+wat	PRON
 'n	DET
 band	NOUN
 kan	AUX
@@ -3518,7 +3518,7 @@ is	AUX
 glo	ADV
 ver	ADV
 vooruit	ADJ
-wat	SCONJ
+wat	PRON
 hierdie	DET
 navorsing	NOUN
 betref	VERB
@@ -3561,7 +3561,7 @@ gaan	AUX
 ek	PRON
 nou	ADV
 uitvind	VERB
-wat	SCONJ
+wat	PRON
 hier	ADV
 aangaan	VERB
 .	PUNCT
@@ -3570,7 +3570,7 @@ Babas	NOUN
 onthou	VERB
 beslis	ADV
 musiek	NOUN
-wat	SCONJ
+wat	PRON
 hulle	PRON
 herhaaldelik	ADV
 voorgeboortelik	ADV
@@ -3606,7 +3606,7 @@ Bereken	VERB
 die	DET
 minimum	ADJ
 bedrag	NOUN
-wat	SCONJ
+wat	PRON
 jy	PRON
 maandeliks	ADV
 moet	AUX
@@ -3614,7 +3614,7 @@ betaal	VERB
 .	PUNCT
 
 Alles	PRON
-wat	SCONJ
+wat	PRON
 ons	PRON
 so	ADV
 uniek	ADV
@@ -3715,7 +3715,7 @@ deesdae	ADV
 Draai	VERB
 die	DET
 boutjie	NOUN
-wat	SCONJ
+wat	PRON
 bo	ADP
 op	ADP
 die	DET
@@ -4083,7 +4083,7 @@ Besin	VERB
 oor	ADP
 die	DET
 effek	NOUN
-wat	SCONJ
+wat	PRON
 hierdie	DET
 gevolgtrekkings	NOUN
 op	ADP
@@ -4211,7 +4211,7 @@ kredietkaarte	NOUN
 
 Die	DET
 uur	NOUN
-wat	SCONJ
+wat	PRON
 die	DET
 klok	NOUN
 wou	AUX
@@ -4441,7 +4441,7 @@ is	AUX
 so	DET
 baie	DET
 mense	NOUN
-wat	SCONJ
+wat	PRON
 ek	PRON
 vir	ADP
 verskeie	DET
@@ -4637,7 +4637,7 @@ uit	ADV
 
 Twee	NUM
 uitsmyters	NOUN
-wat	SCONJ
+wat	PRON
 daar	ADV
 verbygestap	VERB
 het	AUX
@@ -4750,7 +4750,7 @@ Jy	PRON
 bepaal	VERB
 dus	ADV
 self	ADV
-watter	SCONJ
+watter	PRON
 gevolge	NOUN
 jy	PRON
 wil	AUX
@@ -4828,7 +4828,7 @@ So	ADV
 het	AUX
 God	PROPN
 ontvang	VERB
-wat	SCONJ
+wat	PRON
 Hy	PRON
 mog	AUX
 eis	VERB
@@ -5076,7 +5076,7 @@ ek	PRON
 slaap	VERB
 
 Al	DET
-wat	SCONJ
+wat	PRON
 regtig	ADV
 saakmaak	VERB
 is	AUX
@@ -5441,7 +5441,7 @@ nie	PART
 So	ADV
 uit	ADP
 die	DET
-wat	SCONJ
+wat	PRON
 onderrig	NOUN
 ontvang	VERB
 slaag	VERB
@@ -5760,7 +5760,7 @@ Die	DET
 gewone	ADJ
 ou	ADJ
 snert	NOUN
-wat	SCONJ
+wat	PRON
 almal	PRON
 altyd	ADV
 kwytraak	VERB
@@ -5773,7 +5773,7 @@ die	DET
 ander	DET
 vakke	NOUN
 gedoen	VERB
-wat	SCONJ
+wat	PRON
 laboratoriumwerk	NOUN
 vereis	VERB
 het	AUX
@@ -5881,7 +5881,7 @@ Sien	VERB
 jy	PRON
 daardie	DET
 ou	NOUN
-wat	SCONJ
+wat	PRON
 worsbroodjies	NOUN
 verkoop	VERB
 ?	PUNCT
@@ -5930,7 +5930,7 @@ weg	ADV
 .	PUNCT
 
 Dis	AUX
-hoekom	SCONJ
+hoekom	PRON
 ek	PRON
 nooit	ADV
 meer	DET
@@ -5967,7 +5967,7 @@ Onthou	VERB
 ,	PUNCT
 alle	DET
 gewig	NOUN
-wat	SCONJ
+wat	PRON
 jy	PRON
 verminder	VERB
 bevoordeel	VERB
@@ -6229,7 +6229,7 @@ jou	DET
 liggaam	NOUN
 en	CCONJ
 besluit	VERB
-hoeveel	SCONJ
+hoeveel	PRON
 gewig	NOUN
 jy	PRON
 wil	AUX
@@ -6258,7 +6258,7 @@ van	ADP
 Egipte	PROPN
 .	PUNCT
 
-Wat	SCONJ
+Wat	PRON
 meer	ADJ
 is	AUX
 daar	ADV
@@ -6379,7 +6379,7 @@ gemaak	VERB
 Draai	VERB
 die	DET
 boutjie	NOUN
-wat	SCONJ
+wat	PRON
 bo	ADP
 op	ADP
 die	DET
@@ -6486,7 +6486,7 @@ reflekteer	VERB
 ?	PUNCT
 
 Die	DET
-wat	SCONJ
+wat	PRON
 al	DET
 die	DET
 pad	NOUN
@@ -6599,7 +6599,7 @@ was	AUX
 die	DET
 eerste	ADJ
 keiser	NOUN
-wat	SCONJ
+wat	PRON
 'n	DET
 Christen	NOUN
 geword	AUX
@@ -6611,7 +6611,7 @@ na	ADP
 al	DET
 die	DET
 sterre	NOUN
-wat	SCONJ
+wat	PRON
 op	ADP
 jou	PRON
 geplak	VERB
@@ -6690,7 +6690,7 @@ is	AUX
 dus	ADV
 glad	ADV
 nie	PART
-wat	SCONJ
+wat	PRON
 hy	PRON
 wou	AUX
 hê	VERB
@@ -7340,7 +7340,7 @@ die	DET
 pyn	NOUN
 .	PUNCT
 
-Wat	SCONJ
+Wat	PRON
 ek	PRON
 sou	AUX
 weglaat	VERB
@@ -7417,7 +7417,7 @@ natuurlik	ADV
 van	ADP
 die	DET
 voëltjies	NOUN
-wat	SCONJ
+wat	PRON
 die	DET
 wurmpies	NOUN
 gevang	VERB
@@ -7754,7 +7754,7 @@ die	DET
 mees	ADV
 komplekse	ADJ
 drummer	NOUN
-wat	SCONJ
+wat	PRON
 'n	DET
 band	NOUN
 kan	AUX
@@ -7819,7 +7819,7 @@ en	CCONJ
 sout	NOUN
 saam	ADV
 
-Wie	SCONJ
+Wie	PRON
 ookal	ADV
 hierdie	DET
 reddingsmiddel	NOUN
@@ -7992,7 +7992,7 @@ is	AUX
 .	PUNCT
 
 Kyk	VERB
-hoeveel	SCONJ
+hoeveel	PRON
 jy	PRON
 werklik	ADV
 maandeliks	ADV
@@ -8030,7 +8030,7 @@ Daar	ADV
 is	AUX
 geen	DET
 forsering	NOUN
-wat	SCONJ
+wat	PRON
 op	ADP
 u	PRON
 uitgevoer	VERB
@@ -8039,7 +8039,7 @@ nie	PART
 asseblief	INTJ
 
 Leerlinge	NOUN
-wat	SCONJ
+wat	PRON
 die	DET
 Vrystaat	NOUN
 verteenwoordig	VERB
@@ -8374,10 +8374,10 @@ u	PRON
 dit	PRON
 doen	VERB
 ,	PUNCT
-dan	SCONJ
+dan	ADV
 soek	VERB
 u	PRON
-wat	SCONJ
+wat	PRON
 daar	ADV
 bo	ADV
 is	AUX
@@ -8635,7 +8635,7 @@ linkerkantste	ADJ
 baan	NOUN
 
 Enigiets	PRON
-wat	SCONJ
+wat	PRON
 ooit	ADV
 deur	ADP
 Roald	PROPN
@@ -8761,7 +8761,7 @@ Dis	AUX
 die	DET
 laaste	ADJ
 ding	NOUN
-wat	SCONJ
+wat	PRON
 sy	PRON
 nou	ADV
 nodig	ADV
@@ -8989,7 +8989,7 @@ aanvaar	VERB
 geen	DET
 objektiewe	ADJ
 waarheid	NOUN
-wat	SCONJ
+wat	PRON
 van	ADP
 God	PROPN
 kom	VERB
@@ -9046,7 +9046,7 @@ deel	NOUN
 van	ADP
 die	DET
 kudde	NOUN
-wat	SCONJ
+wat	PRON
 aan	ADP
 jou	PRON
 toevertrou	VERB
@@ -9402,7 +9402,7 @@ is	AUX
 na	ADP
 'n	DET
 leuen	NOUN
-wat	SCONJ
+wat	PRON
 hy	PRON
 oorsee	ADV
 vertel	VERB
@@ -9465,7 +9465,7 @@ stokkie	NOUN
 
 Laat	AUX
 iemand	PRON
-wat	SCONJ
+wat	PRON
 ongesteld	NOUN
 is	AUX
 weet	VERB
@@ -9609,7 +9609,7 @@ graag	ADV
 hoor	VERB
 van	ADP
 mense	NOUN
-wat	SCONJ
+wat	PRON
 ook	ADV
 in	ADP
 Amerika	PROPN
@@ -9641,7 +9641,7 @@ sê	VERB
 
 De	PROPN
 Suffren	PROPN
-wat	SCONJ
+wat	PRON
 in	ADP
 die	DET
 Ooste	NOUN
@@ -9689,7 +9689,7 @@ kry	VERB
 Erns	NOUN
 met	ADP
 dit	PRON
-wat	SCONJ
+wat	PRON
 u	PRON
 aanpak	VERB
 by	ADP
@@ -9741,7 +9741,7 @@ kan	AUX
 versoen	VERB
 
 Dis	AUX
-wat	SCONJ
+wat	PRON
 ons	PRON
 beleef	VERB
 in	ADP
@@ -9812,7 +9812,7 @@ Hulle	PRON
 kan	AUX
 ook	ADV
 weet	VERB
-watter	SCONJ
+watter	PRON
 beskeie	ADJ
 plek	NOUN
 hulle	PRON
@@ -9868,7 +9868,7 @@ goed	ADV
 met	ADP
 die	DET
 mens	NOUN
-wat	SCONJ
+wat	PRON
 op	ADP
 u	PRON
 vertrou	VERB
@@ -10344,7 +10344,7 @@ jy	PRON
 kyk	VERB
 is	AUX
 nie	PART
-wat	SCONJ
+wat	PRON
 jy	PRON
 sien	VERB
 nie	PART
@@ -10516,7 +10516,7 @@ sê	VERB
 Koorlede	NOUN
 besig	ADJ
 met	ADP
-wat	SCONJ
+wat	PRON
 hulle	PRON
 die	DET
 liefste	NOUN
@@ -10596,7 +10596,7 @@ woorde	NOUN
 sou	AUX
 ek	PRON
 reken	VERB
-wat	SCONJ
+wat	PRON
 nie	PART
 eintlik	ADV
 tref	VERB
@@ -10648,7 +10648,7 @@ Dit	PRON
 is	AUX
 die	DET
 karakter	NOUN
-wat	SCONJ
+wat	PRON
 met	ADP
 jou	PRON
 saamstem	VERB
@@ -10761,7 +10761,7 @@ is	AUX
 daar	ADV
 talle	DET
 Christene	NOUN
-wat	SCONJ
+wat	PRON
 die	DET
 sondaar	NOUN
 tehou	VERB
@@ -10970,7 +10970,7 @@ was	AUX
 die	DET
 grootste	ADJ
 dame	NOUN
-wat	SCONJ
+wat	PRON
 ek	PRON
 ooit	ADV
 geken	VERB
