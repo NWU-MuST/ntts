@@ -23,7 +23,7 @@ jy	PRON
 saamleef	VERB
 is	AUX
 nie	PART
-jou	DET
+jou	PRON
 man	NOUN
 nie	PART
 .	PUNCT
@@ -57,7 +57,7 @@ byna	ADV
 onvanpas	ADV
 deftig	ADJ
 met	ADP
-hulle	DET
+hulle	PRON
 tafeldoek	NOUN
 .	PUNCT
 
@@ -93,7 +93,7 @@ sekondes	NOUN
 
 Hy	PRON
 begin	VERB
-sy	DET
+sy	PRON
 restourasie	NOUN
 ,	PUNCT
 maar	CCONJ
@@ -135,7 +135,7 @@ natuurreservaat	NOUN
 aangeteken	VERB
 .	PUNCT
 
-Sy	DET
+Sy	PRON
 kinders	NOUN
 leef	VERB
 hierdie	DET
@@ -143,7 +143,7 @@ aanbidding	NOUN
 elke	DET
 dag	NOUN
 van	ADP
-hul	DET
+hul	PRON
 lewens	NOUN
 .	PUNCT
 
@@ -165,7 +165,7 @@ het	AUX
 as	PART
 te	PART
 ware	ADV
-sy	DET
+sy	PRON
 tou	NOUN
 ietwat	ADV
 laat	VERB
@@ -203,7 +203,7 @@ vertrou	VERB
 dat	SCONJ
 bostaande	ADJ
 inligting	NOUN
-u	DET
+u	PRON
 navraag	NOUN
 beantwoord	VERB
 .	PUNCT
@@ -237,7 +237,7 @@ ook	ADV
 die	DET
 gevolge	NOUN
 van	ADP
-sy	DET
+sy	PRON
 dade	NOUN
 dra	VERB
 .	PUNCT
@@ -308,7 +308,7 @@ Miga	PROPN
 So	ADV
 klein	ADJ
 soos	ADP
-my	DET
+my	PRON
 rekenaarskerm	NOUN
 sou	AUX
 ek	PRON
@@ -320,7 +320,7 @@ sê	VERB
 Meublement	PROPN
 bevestig	VERB
 stilswyend	ADV
-hul	DET
+hul	PRON
 roeping	NOUN
 .	PUNCT
 
@@ -427,7 +427,7 @@ ouer	ADV
 voorkom	VERB
 as	SCONJ
 wat	PRON
-sy	DET
+sy	PRON
 gespierde	ADJ
 arms	NOUN
 verraai	VERB
@@ -715,7 +715,7 @@ gooi	VERB
 
 Ek	PRON
 het	AUX
-my	DET
+my	PRON
 eerste	ADJ
 verhaal	NOUN
 begin	VERB
@@ -827,7 +827,7 @@ wees	AUX
 
 Dis	AUX
 nou	ADV
-jou	DET
+jou	PRON
 werk	NOUN
 wat	PRON
 ek	PRON
@@ -855,11 +855,11 @@ Daarom	ADV
 kom	VERB
 verbind	VERB
 Hy	PRON
-sy	DET
+sy	PRON
 ewige	ADJ
 trou	NOUN
 aan	ADP
-ons	DET
+ons	PRON
 nietigheid	NOUN
 .	PUNCT
 
@@ -980,7 +980,7 @@ hy	PRON
 uit	ADV
 daarna	ADV
 om	SCONJ
-sy	DET
+sy	PRON
 land	NOUN
 te	PART
 help	VERB
@@ -1112,11 +1112,11 @@ sekondes	NOUN
 Deel	VERB
 met	ADP
 ander	DET
-u	DET
+u	PRON
 lewenswysheid	NOUN
 wat	PRON
 met	ADP
-u	DET
+u	PRON
 jare	NOUN
 gekom	VERB
 het	AUX
@@ -1162,7 +1162,7 @@ tuis	ADJ
 wees	AUX
 en	CCONJ
 met	ADP
-sy	DET
+sy	PRON
 juffrou	NOUN
 identifiseer	VERB
 .	PUNCT
@@ -1171,7 +1171,7 @@ Ja	INTJ
 ,	PUNCT
 u	PRON
 kan	AUX
-u	DET
+u	PRON
 kind	NOUN
 by	ADP
 enige	DET
@@ -1275,7 +1275,7 @@ het	AUX
 
 Jesus	PROPN
 en	CCONJ
-sy	DET
+sy	PRON
 dissipels	NOUN
 was	AUX
 op	ADP
@@ -1288,14 +1288,14 @@ Jerusalem	PROPN
 
 Hy	PRON
 maak	VERB
-sy	DET
+sy	PRON
 oë	NOUN
 stadig	ADV
 oop	ADV
 en	CCONJ
 kyk	VERB
 op	ADP
-sy	DET
+sy	PRON
 horlosie	NOUN
 .	PUNCT
 
@@ -1349,18 +1349,18 @@ bruin	ADJ
 sanderige	ADJ
 grond	NOUN
 van	ADP
-my	DET
+my	PRON
 voete	NOUN
 afskud	VERB
 .	PUNCT
 
-Sy	DET
+Sy	PRON
 pa	NOUN
 het	AUX
 vleis	NOUN
 gebraai	VERB
 en	CCONJ
-sy	DET
+sy	PRON
 ma	NOUN
 het	AUX
 vetkoek	NOUN
@@ -1580,7 +1580,7 @@ reuk	NOUN
 het	AUX
 ingetrek	VERB
 en	CCONJ
-sy	DET
+sy	PRON
 lê	NOUN
 gekry	VERB
 .	PUNCT
@@ -1642,7 +1642,7 @@ As	SCONJ
 'n	DET
 man	NOUN
 nie	PART
-sy	DET
+sy	PRON
 kant	NOUN
 bring	VERB
 nie	PART
@@ -1774,7 +1774,7 @@ heropgevoed	VERB
 word	AUX
 ,	PUNCT
 word	AUX
-sy	DET
+sy	PRON
 nuwe	ADJ
 godsdiens	NOUN
 .	PUNCT
@@ -1848,7 +1848,7 @@ Hugo	PROPN
 val	VERB
 bykans	ADV
 oor	ADP
-sy	DET
+sy	PRON
 voete	NOUN
 soos	ADP
 wat	PRON
@@ -1858,10 +1858,10 @@ prys	VERB
 .	PUNCT
 
 Want	CCONJ
-haar	DET
+haar	PRON
 ervaring	NOUN
 ,	PUNCT
-haar	DET
+haar	PRON
 toewyding	NOUN
 aan	ADP
 Jesus	PROPN
@@ -1875,7 +1875,7 @@ Aanvaar	VERB
 aanbiedinge	NOUN
 om	SCONJ
 na	ADP
-jou	DET
+jou	PRON
 baba	NOUN
 om	ADV
 te	PART
@@ -1904,7 +1904,7 @@ keuse	NOUN
 
 Ek	PRON
 erken	VERB
-my	DET
+my	PRON
 nietigheid	NOUN
 en	CCONJ
 afhanklikheid	NOUN
@@ -1959,7 +1959,7 @@ gepubliseer	VERB
 Hoekom	ADV
 het	AUX
 boontjie	NOUN
-sy	DET
+sy	PRON
 loontjie	NOUN
 gekry	VERB
 ?	PUNCT
@@ -1997,10 +1997,10 @@ Maak	VERB
 dus	ADV
 seker	ADV
 dat	SCONJ
-jou	DET
+jou	PRON
 werkgewer	NOUN
 voor	ADP
-jou	DET
+jou	PRON
 uitdienstrede	NOUN
 geregistreer	VERB
 is	AUX
@@ -2131,7 +2131,7 @@ aan	ADP
 die	DET
 buitelyne	NOUN
 van	ADP
-jou	DET
+jou	PRON
 storie	NOUN
 .	PUNCT
 
@@ -2271,7 +2271,7 @@ skepsel	NOUN
 verheug	VERB
 hom	PRON
 in	ADP
-sy	DET
+sy	PRON
 Skepper	NOUN
 .	PUNCT
 
@@ -2323,7 +2323,7 @@ kan	AUX
 jy	PRON
 uiting	NOUN
 aan	ADP
-jou	DET
+jou	PRON
 verbeelding	NOUN
 gee	VERB
 .	PUNCT
@@ -2349,7 +2349,7 @@ eg	ADJ
 is	AUX
 .	PUNCT
 
-My	DET
+My	PRON
 huis	NOUN
 moet	AUX
 'n	DET
@@ -2444,7 +2444,7 @@ van	ADP
 die	DET
 Bybel	NOUN
 onder	ADP
-sy	DET
+sy	PRON
 kussing	NOUN
 .	PUNCT
 
@@ -2454,7 +2454,7 @@ dat	SCONJ
 iets	PRON
 anders	ADJ
 vir	ADP
-jou	DET
+jou	PRON
 buurman	NOUN
 waar	ADJ
 kan	AUX
@@ -2583,7 +2583,7 @@ gekom	VERB
 
 Nee	INTJ
 ,	PUNCT
-hulle	DET
+hulle	PRON
 redding	NOUN
 is	AUX
 gegrond	VERB
@@ -2708,7 +2708,7 @@ jy	PRON
 die	DET
 voordeel	NOUN
 van	ADP
-jou	DET
+jou	PRON
 voltooide	ADJ
 diensjare	NOUN
 .	PUNCT
@@ -2771,7 +2771,7 @@ word	AUX
 gedwing	VERB
 om	SCONJ
 teen	ADP
-ons	DET
+ons	PRON
 aard	NOUN
 onaangenaam	ADJ
 te	PART
@@ -2784,7 +2784,7 @@ vir	ADP
 ewig	ADV
 so	ADV
 op	ADP
-my	DET
+my	PRON
 knieë	NOUN
 voor	ADP
 hom	PRON
@@ -2836,7 +2836,7 @@ alles	PRON
 verloor	VERB
 as	SCONJ
 julle	PRON
-jul	DET
+jul	PRON
 siele	NOUN
 verloor	VERB
 het	AUX
@@ -2866,7 +2866,7 @@ oorweeg	VERB
 Skree	VERB
 as	SCONJ
 jy	PRON
-jou	DET
+jou	PRON
 waardering	NOUN
 aan	ADP
 my	PRON
@@ -2989,7 +2989,7 @@ ek	PRON
 wil	AUX
 ,	PUNCT
 begin	VERB
-my	DET
+my	PRON
 skouers	NOUN
 ruk	VERB
 .	PUNCT
@@ -3078,14 +3078,14 @@ jy	PRON
 die	DET
 tydsverloop	NOUN
 van	ADP
-jou	DET
+jou	PRON
 beleggings	NOUN
 begryp	VERB
 .	PUNCT
 
 Jy	PRON
 ontdek	VERB
-jou	DET
+jou	PRON
 eie	ADJ
 hart	NOUN
 en	CCONJ
@@ -3099,7 +3099,7 @@ kwessies	NOUN
 Baie	DET
 dankie	NOUN
 vir	ADP
-u	DET
+u	PRON
 oorweging	NOUN
 van	ADP
 hierdie	DET
@@ -3198,7 +3198,7 @@ nie	PART
 minder	ADV
 kru	ADV
 op	ADP
-my	DET
+my	PRON
 oor	NOUN
 nie	PART
 .	PUNCT
@@ -3328,7 +3328,7 @@ baie	ADV
 moeilik	ADJ
 .	PUNCT
 
-My	DET
+My	PRON
 oorlede	ADJ
 pa	NOUN
 onthou	VERB
@@ -3339,7 +3339,7 @@ natuurliefhebber	NOUN
 .	PUNCT
 
 Op	ADP
-sy	DET
+sy	PRON
 beste	NOUN
 sing	VERB
 hy	PRON
@@ -3356,7 +3356,7 @@ hulle	PRON
 wil	AUX
 beheer	VERB
 is	AUX
-jou	DET
+jou	PRON
 keuse	NOUN
 .	PUNCT
 
@@ -3438,7 +3438,7 @@ nie	PART
 meer	ADV
 nie	PART
 ,	PUNCT
-u	DET
+u	PRON
 plek	NOUN
 is	AUX
 reeds	ADV
@@ -3582,7 +3582,7 @@ oor	ADP
 die	DET
 manier	NOUN
 waarop	SCONJ
-Sy	DET
+Sy	PRON
 genesing	NOUN
 en	CCONJ
 liefde	NOUN
@@ -3623,7 +3623,7 @@ Afrikaans	ADJ
 maak	VERB
 .	PUNCT
 
-Sy	DET
+Sy	PRON
 onveranderlikheid	NOUN
 staan	VERB
 teenoor	ADP
@@ -3751,10 +3751,10 @@ net	ADV
 so	ADV
 hardnekkig	ADJ
 in	ADP
-sy	DET
+sy	PRON
 sondes	NOUN
 soos	ADP
-sy	DET
+sy	PRON
 ouers	NOUN
 .	PUNCT
 
@@ -3776,7 +3776,7 @@ God	PROPN
 hierdie	DET
 erfporsie	NOUN
 aan	ADP
-julle	DET
+julle	PRON
 kindjie	NOUN
 aan	ADV
 .	PUNCT
@@ -3823,7 +3823,7 @@ Hy	PRON
 roep	VERB
 toe	ADV
 eers	ADV
-sy	DET
+sy	PRON
 raadgewers	NOUN
 die	DET
 ouer	ADJ
@@ -3867,7 +3867,7 @@ is	AUX
 immer	ADV
 bewus	ADJ
 van	ADP
-haar	DET
+haar	PRON
 besondere	ADJ
 integriteit	NOUN
 .	PUNCT
@@ -3931,7 +3931,7 @@ nie	PART
 
 Ons	PRON
 sal	AUX
-u	DET
+u	PRON
 bestelling	NOUN
 naspoor	VERB
 en	CCONJ
@@ -3963,7 +3963,7 @@ jy	PRON
 'n	DET
 probleem	NOUN
 met	ADP
-jou	DET
+jou	PRON
 ouers	NOUN
 vanaand	ADV
 .	PUNCT
@@ -4163,14 +4163,14 @@ jy	PRON
 duidelike	ADJ
 Kopiereg	NOUN
 op	ADP
-jou	DET
+jou	PRON
 werk	NOUN
 aandui	VERB
 .	PUNCT
 
 Ouers	NOUN
 het	AUX
-hul	DET
+hul	PRON
 kindertjies	NOUN
 na	ADP
 Jesus	PROPN
@@ -4238,7 +4238,7 @@ kursus	NOUN
 Wees	AUX
 realisties	ADJ
 met	ADP
-jou	DET
+jou	PRON
 ideale	ADJ
 gewigsbepaling	NOUN
 .	PUNCT
@@ -4266,7 +4266,7 @@ is	AUX
 
 Wanneer	SCONJ
 jy	PRON
-jou	DET
+jou	PRON
 ideale	ADJ
 gewig	NOUN
 bereik	VERB
@@ -4294,7 +4294,7 @@ moeite	NOUN
 en	CCONJ
 gaan	AUX
 lees	VERB
-jou	DET
+jou	PRON
 kamera	NOUN
 se	PART
 handleiding	NOUN
@@ -4361,7 +4361,7 @@ werk	VERB
 uitstekend	ADV
 .	PUNCT
 
-Hulle	DET
+Hulle	PRON
 tradisionele	ADJ
 geloof	NOUN
 en	CCONJ
@@ -4371,15 +4371,15 @@ geskud	VERB
 .	PUNCT
 
 Maar	CCONJ
-jou	DET
+jou	PRON
 man	NOUN
 is	AUX
 medeverantwoordelik	ADJ
 vir	ADP
-jul	DET
+jul	PRON
 huwelik	NOUN
 ongeag	ADV
-sy	DET
+sy	PRON
 depressie	NOUN
 .	PUNCT
 
@@ -4388,7 +4388,7 @@ dink	VERB
 vandag	ADV
 terug	ADV
 aan	ADP
-my	DET
+my	PRON
 ouma	NOUN
 hulle	PART
 se	PART
@@ -4430,7 +4430,7 @@ voor	ADP
 elke	DET
 uitstappie	NOUN
 om	SCONJ
-jou	DET
+jou	PRON
 plek	NOUN
 te	PART
 bespreek	VERB
@@ -4495,7 +4495,7 @@ oefen	NOUN
 en	CCONJ
 werk	VERB
 aan	ADP
-jou	DET
+jou	PRON
 uithouvermoë	NOUN
 .	PUNCT
 
@@ -4530,12 +4530,12 @@ soos	ADP
 sing	NOUN
 .	PUNCT
 
-Haar	DET
+Haar	PRON
 kleinkinders	NOUN
 is	AUX
 bewus	ADJ
 van	ADP
-haar	DET
+haar	PRON
 gewildheid	NOUN
 .	PUNCT
 
@@ -4587,7 +4587,7 @@ Die	DET
 kwaai	ADJ
 ou	NOUN
 met	ADP
-sy	DET
+sy	PRON
 swart	ADJ
 hemp	NOUN
 .	PUNCT
@@ -4625,7 +4625,7 @@ huislenings	NOUN
 
 En	CCONJ
 as	SCONJ
-jou	DET
+jou	PRON
 oog	NOUN
 jou	PRON
 laat	AUX
@@ -4653,7 +4653,7 @@ dit	PRON
 glo	VERB
 ek	PRON
 dat	SCONJ
-jou	DET
+jou	PRON
 liggaam	NOUN
 roetine	NOUN
 nodig	ADV
@@ -4707,7 +4707,7 @@ oorskop	VERB
 Die	DET
 land	NOUN
 was	AUX
-my	DET
+my	PRON
 tuiste	NOUN
 vir	ADP
 die	DET
@@ -4742,7 +4742,7 @@ u	PRON
 gestuur	VERB
 word	AUX
 op	ADP
-u	DET
+u	PRON
 versoek	NOUN
 .	PUNCT
 
@@ -4911,7 +4911,7 @@ die	DET
 geamuseerde	ADJ
 trek	NOUN
 om	ADP
-sy	DET
+sy	PRON
 mond	NOUN
 .	PUNCT
 
@@ -4940,7 +4940,7 @@ verwyder	VERB
 is	AUX
 .	PUNCT
 
-Jou	DET
+Jou	PRON
 digitale	ADJ
 kamera	NOUN
 het	AUX
@@ -5004,7 +5004,7 @@ is	AUX
 dus	ADV
 glad	ADV
 nie	PART
-wat	DET
+wat	PRON
 hy	PRON
 wou	AUX
 hê	VERB
@@ -5023,7 +5023,7 @@ gelê	VERB
 .	PUNCT
 
 Gebruik	VERB
-jou	DET
+jou	PRON
 zoemlens	NOUN
 veral	ADV
 wanneer	SCONJ
@@ -5064,7 +5064,7 @@ storie	NOUN
 .	PUNCT
 
 As	SCONJ
-my	DET
+my	PRON
 oë	NOUN
 toe	ADJ
 is	AUX
@@ -5148,7 +5148,7 @@ beskou	VERB
 
 Ongelukkig	ADV
 is	AUX
-ons	DET
+ons	PRON
 rasseprobleem	NOUN
 een	NUM
 van	ADP
@@ -5299,7 +5299,7 @@ skud	VERB
 en	CCONJ
 skeur	VERB
 na	ADP
-my	DET
+my	PRON
 maag	NOUN
 toe	ADP
 .	PUNCT
@@ -5376,7 +5376,7 @@ God	PROPN
 se	PART
 oogpunt	NOUN
 na	ADP
-jou	DET
+jou	PRON
 situasie	NOUN
 te	PART
 kyk	VERB
@@ -5408,7 +5408,7 @@ dag	NOUN
 .	PUNCT
 
 Betaal	VERB
-jou	DET
+jou	PRON
 duurste	ADJ
 skuld	NOUN
 eerste	ADV
@@ -5478,7 +5478,7 @@ in	ADP
 die	DET
 water	NOUN
 na	ADP
-sy	DET
+sy	PRON
 eie	ADJ
 oë	NOUN
 gekyk	VERB
@@ -5499,7 +5499,7 @@ uitgestal	VERB
 Die	DET
 vreugde	NOUN
 van	ADP
-sy	DET
+sy	PRON
 ouers	NOUN
 ,	PUNCT
 maar	CCONJ
@@ -5635,13 +5635,13 @@ Touwsrivier	PROPN
 .	PUNCT
 
 In	ADP
-jou	DET
+jou	PRON
 verhouding	NOUN
 met	ADP
-jou	DET
+jou	PRON
 ou	NOUN
 of	CCONJ
-jou	DET
+jou	PRON
 meisie	NOUN
 .	PUNCT
 
@@ -5661,10 +5661,10 @@ daarin	ADV
 Help	VERB
 ook	ADV
 hier	ADV
-u	DET
+u	PRON
 kind	NOUN
 om	SCONJ
-sy	DET
+sy	PRON
 geld	NOUN
 oordeelkundig	ADV
 te	PART
@@ -5692,7 +5692,7 @@ het	AUX
 deel	VERB
 dit	PRON
 met	ADP
-u	DET
+u	PRON
 bure	NOUN
 .	PUNCT
 
@@ -5715,7 +5715,7 @@ die	DET
 perfekte	ADJ
 stikselpatroon	NOUN
 op	ADP
-sy	DET
+sy	PRON
 skoene	NOUN
 .	PUNCT
 
@@ -5797,7 +5797,7 @@ graag	ADV
 weer	ADV
 herinner	VERB
 aan	ADP
-ons	DET
+ons	PRON
 jaareindfunksie	NOUN
 .	PUNCT
 
@@ -5834,7 +5834,7 @@ onmoontlik	ADJ
 Die	DET
 seer	NOUN
 in	ADP
-jou	DET
+jou	PRON
 oë	NOUN
 verdwyn	VERB
 die	DET
@@ -5853,7 +5853,7 @@ betrokke	ADJ
 toespraak	NOUN
 .	PUNCT
 
-My	DET
+My	PRON
 oë	NOUN
 trek	VERB
 skrewe	NOUN
@@ -5892,7 +5892,7 @@ verse	NOUN
 maar	ADV
 duidelik	ADV
 in	ADP
-u	DET
+u	PRON
 eie	ADJ
 Bybel	NOUN
 .	PUNCT
@@ -5972,7 +5972,7 @@ jy	PRON
 verminder	VERB
 bevoordeel	VERB
 uiteindelik	ADV
-jou	DET
+jou	PRON
 rug	NOUN
 .	PUNCT
 
@@ -5995,7 +5995,7 @@ volume	NOUN
 en	CCONJ
 glans	NOUN
 aan	ADP
-jou	DET
+jou	PRON
 hare	NOUN
 .	PUNCT
 
@@ -6004,7 +6004,7 @@ elke	DET
 onderonsie	NOUN
 kies	VERB
 jy	PRON
-jou	DET
+jou	PRON
 karakters	NOUN
 se	PART
 wapens	NOUN
@@ -6037,7 +6037,7 @@ oorgeneem	VERB
 
 Wie	PRON
 sal	AUX
-haar	DET
+haar	PRON
 trane	NOUN
 afvee	VERB
 as	SCONJ
@@ -6103,7 +6103,7 @@ uitstek	NOUN
 oorreed	VERB
 .	PUNCT
 
-Jou	DET
+Jou	PRON
 finansiële	ADJ
 raadgewer	NOUN
 kan	AUX
@@ -6117,7 +6117,7 @@ hierdie	DET
 drie	NUM
 feeste	NOUN
 het	AUX
-sy	DET
+sy	PRON
 eie	ADJ
 unieke	ADJ
 betekenis	NOUN
@@ -6184,7 +6184,7 @@ is	AUX
 klam	ADV
 geplak	ADJ
 oor	ADP
-jou	DET
+jou	PRON
 voorkop	NOUN
 .	PUNCT
 
@@ -6209,7 +6209,7 @@ die	DET
 Tien	NUM
 Gebooie	NOUN
 met	ADP
-haar	DET
+haar	PRON
 klassie	NOUN
 .	PUNCT
 
@@ -6225,7 +6225,7 @@ weg	ADV
 
 Kyk	VERB
 na	ADP
-jou	DET
+jou	PRON
 liggaam	NOUN
 en	CCONJ
 besluit	VERB
@@ -6238,7 +6238,7 @@ verloor	VERB
 
 Doen	VERB
 nou	ADV
-jou	DET
+jou	PRON
 navorsing	NOUN
 en	CCONJ
 krap	VERB
@@ -6305,7 +6305,7 @@ resultaat	NOUN
 was	AUX
 snitte	NOUN
 op	ADP
-sy	DET
+sy	PRON
 debuutalbum	NOUN
 Vreemde	PROPN
 Stad	PROPN
@@ -6322,7 +6322,7 @@ self	PRON
 te	PART
 finansier	VERB
 
-Sy	DET
+Sy	PRON
 arms	NOUN
 behoort	AUX
 nie	PART
@@ -6416,7 +6416,7 @@ kan	AUX
 jy	PRON
 uiting	NOUN
 aan	ADP
-jou	DET
+jou	PRON
 verbeelding	NOUN
 gee	VERB
 
@@ -6425,7 +6425,7 @@ Vakansies	NOUN
 veral	ADV
 Kersfees	NOUN
 by	ADP
-my	DET
+my	PRON
 ouma	NOUN
 en	CCONJ
 oupa	NOUN
@@ -6647,7 +6647,7 @@ het	AUX
 ek	PRON
 afgetree	VERB
 en	CCONJ
-my	DET
+my	PRON
 eie	ADJ
 onderneming	NOUN
 begin	VERB
@@ -6678,7 +6678,7 @@ Ai	INTJ
 hoe	ADV
 lekker	ADJ
 om	ADP
-my	DET
+my	PRON
 moedertaal	NOUN
 te	PART
 lees	VERB
@@ -6710,7 +6710,7 @@ beligting	NOUN
 
 Kom	AUX
 gebruik	VERB
-u	DET
+u	PRON
 gawe	NOUN
 van	ADP
 gasvryheid	NOUN
@@ -6753,7 +6753,7 @@ styl	NOUN
 nie	PART
 
 Sodat	SCONJ
-my	DET
+my	PRON
 binneste	NOUN
 behaaglik	ADV
 pienk	ADV
@@ -6763,7 +6763,7 @@ sug	VERB
 Alle	DET
 luislange	NOUN
 wurg	VERB
-hul	DET
+hul	PRON
 prooi	NOUN
 deur	SCONJ
 eers	ADV
@@ -6797,7 +6797,7 @@ word	AUX
 die	DET
 meeste	DET
 van	ADP
-my	DET
+my	PRON
 verkeerde	ADJ
 besluite	NOUN
 geneem	VERB
@@ -6818,7 +6818,7 @@ het	AUX
 Die	DET
 Selfmoord	NOUN
 Van	ADP
-Sy	DET
+Sy	PRON
 Eie	ADJ
 Party	NOUN
 gepleeg	VERB
@@ -6890,7 +6890,7 @@ roudiens	NOUN
 kontingent	NOUN
 nie	PART
 
-Haar	DET
+Haar	PRON
 seun	NOUN
 gaan	VERB
 aanstaande	ADJ
@@ -6904,7 +6904,7 @@ seunskole	NOUN
 
 Jy	PRON
 koop	VERB
-jou	DET
+jou	PRON
 eerste	ADJ
 lewensversekeringspolise	NOUN
 met	ADP
@@ -6919,11 +6919,11 @@ is	AUX
 dodelik	ADV
 sekuur	ADJ
 in	ADP
-sy	DET
+sy	PRON
 absurditeit	NOUN
 
 Bring	VERB
-u	DET
+u	PRON
 kind	NOUN
 vir	ADP
 'n	DET
@@ -6936,7 +6936,7 @@ plesier	NOUN
 
 En	CCONJ
 geloof	NOUN
-jou	DET
+jou	PRON
 omhelsing	NOUN
 van	ADP
 Christus	PROPN
@@ -7007,7 +7007,7 @@ Hoe	ADV
 beleef	VERB
 u	PRON
 vandag	ADV
-u	DET
+u	PRON
 ware	ADJ
 geluk	NOUN
 ?	PUNCT
@@ -7104,7 +7104,7 @@ maak	VERB
 Gebruik	VERB
 tuinwerk	NOUN
 as	SCONJ
-jou	DET
+jou	PRON
 gimnasium	NOUN
 .	PUNCT
 
@@ -7153,7 +7153,7 @@ kan	AUX
 dus	ADV
 nou	ADV
 ook	ADV
-u	DET
+u	PRON
 aandag	NOUN
 daarop	ADV
 vestig	VERB
@@ -7170,12 +7170,12 @@ oopmaak	VERB
 .	PUNCT
 
 Stuur	VERB
-u	DET
+u	PRON
 bydrae	NOUN
 vandag	ADV
 nog	ADV
 na	ADP
-u	DET
+u	PRON
 naaste	ADJ
 Bybelhuis	NOUN
 
@@ -7196,7 +7196,7 @@ sleutel	NOUN
 voor	ADP
 beelde	NOUN
 om	SCONJ
-u	DET
+u	PRON
 antwoord	NOUN
 te	PART
 illustreer	VERB
@@ -7242,7 +7242,7 @@ dit	PRON
 aansienlik	ADV
 beter	ADV
 met	ADP
-sy	DET
+sy	PRON
 rugby	NOUN
 gegaan	VERB
 
@@ -7274,7 +7274,7 @@ van	ADP
 die	DET
 Reuse	NOUN
 by	ADP
-ons	DET
+ons	PRON
 koshuis	NOUN
 
 Vir	ADP
@@ -7310,7 +7310,7 @@ Besoek	VERB
 hulle	PRON
 asseblief	ADV
 sodra	SCONJ
-u	DET
+u	PRON
 afspraak	NOUN
 vir	ADP
 chirurgie	NOUN
@@ -7329,7 +7329,7 @@ die	DET
 deur	NOUN
 .	PUNCT
 
-My	DET
+My	PRON
 verstand	NOUN
 is	AUX
 helder	ADJ
@@ -7365,7 +7365,7 @@ lank	ADV
 is	AUX
 hy	PRON
 en	CCONJ
-sy	DET
+sy	PRON
 belange	NOUN
 geïgnoreer	VERB
 .	PUNCT
@@ -7435,7 +7435,7 @@ bygevoeg	VERB
 
 Dis	AUX
 asof	SCONJ
-jou	DET
+jou	PRON
 oë	NOUN
 en	CCONJ
 brein	NOUN
@@ -7526,7 +7526,7 @@ gesoek	VERB
 Hy	PRON
 weer	ADV
 op	ADP
-sy	DET
+sy	PRON
 beurt	NOUN
 het	AUX
 Johnny	PROPN
@@ -7578,7 +7578,7 @@ Gebruik	VERB
 die	DET
 geleentheid	NOUN
 om	SCONJ
-u	DET
+u	PRON
 kind	NOUN
 se	PART
 vordering	NOUN
@@ -7587,11 +7587,11 @@ kom	AUX
 bespreek	VERB
 .	PUNCT
 
-Sy	DET
+Sy	PRON
 musiek	NOUN
 onderwyser	NOUN
 het	AUX
-sy	DET
+sy	PRON
 komposisies	NOUN
 hopeloos	ADJ
 genoem	VERB
@@ -7775,7 +7775,7 @@ red	VERB
 Ousus	NOUN
 beduie	VERB
 oor	ADP
-sy	DET
+sy	PRON
 skouer	NOUN
 vir	ADP
 my	PRON
@@ -7880,7 +7880,7 @@ kleurekstraksie	NOUN
 Deurslaggewend	ADJ
 is	AUX
 egter	ADV
-ons	DET
+ons	PRON
 bloed	NOUN
 en	CCONJ
 senuweeveegseltoets	NOUN
@@ -7963,7 +7963,7 @@ hooggeplaastes	NOUN
 ?	PUNCT
 
 Bestuur	VERB
-jou	DET
+jou	PRON
 eie	ADJ
 persoonlike	ADJ
 finansies	NOUN
@@ -7985,7 +7985,7 @@ Dit	PRON
 kan	AUX
 wees	AUX
 dat	SCONJ
-jou	DET
+jou	PRON
 posbus	NOUN
 vol	ADJ
 is	AUX
@@ -8083,7 +8083,7 @@ nie	PART
 Dis	AUX
 nog	ADV
 steeds	ADV
-haar	DET
+haar	PRON
 lewe	NOUN
 ,	PUNCT
 sy	PRON
@@ -8091,7 +8091,7 @@ noem	VERB
 haarself	PRON
 Kala	PROPN
 
-My	DET
+My	PRON
 droom	NOUN
 is	AUX
 om	SCONJ
@@ -8134,7 +8134,7 @@ Johannesburg	PROPN
 bygewoon	VERB
 
 Selfs	ADV
-sy	DET
+sy	PRON
 eie	ADJ
 ouers	NOUN
 het	AUX
@@ -8156,7 +8156,7 @@ oorweeg	VERB
 
 Wend	VERB
 aan	ADP
-jou	DET
+jou	PRON
 hare	NOUN
 deur	SCONJ
 by	ADP
@@ -8238,12 +8238,12 @@ is	AUX
 
 As	SCONJ
 jy	PRON
-jou	DET
+jou	PRON
 onderwerp	NOUN
 skuif	VERB
 moet	AUX
 jy	PRON
-jou	DET
+jou	PRON
 fokuspunt	NOUN
 ook	ADV
 skuif	VERB
@@ -8261,7 +8261,7 @@ die	DET
 kleintjie	NOUN
 gebore	VERB
 
-Jou	DET
+Jou	PRON
 spysverteringstelsel	NOUN
 sal	AUX
 oortyd	ADV
@@ -8293,7 +8293,7 @@ ook	ADV
 dan	ADV
 
 Kry	VERB
-jou	DET
+jou	PRON
 sketse	NOUN
 ,	PUNCT
 illustrasies	NOUN
@@ -8341,7 +8341,7 @@ Lucas	PROPN
 ,	PUNCT
 dat	SCONJ
 hy	PRON
-ons	DET
+ons	PRON
 aandag	NOUN
 op	ADP
 bogenoemde	ADJ
@@ -8351,7 +8351,7 @@ het	AUX
 
 Terug	ADV
 na	ADP
-my	DET
+my	PRON
 voorbeeld	NOUN
 van	ADP
 die	DET
@@ -8441,11 +8441,11 @@ deur	ADP
 apartheid	NOUN
 het	AUX
 egter	ADV
-sy	DET
+sy	PRON
 nagevolge	NOUN
 gehad	AUX
 
-My	DET
+My	PRON
 idee	NOUN
 onderliggend	ADJ
 is	AUX
@@ -8587,7 +8587,7 @@ u	PRON
 hierdie	DET
 beslissing	NOUN
 aan	ADP
-u	DET
+u	PRON
 lesers	NOUN
 sal	AUX
 oordra	VERB
@@ -8665,7 +8665,7 @@ gevalle	NOUN
 van	ADP
 gekoppel	VERB
 
-My	DET
+My	PRON
 inskrywing	NOUN
 vir	ADP
 die	DET
@@ -8718,7 +8718,7 @@ die	DET
 brandstof	NOUN
 waarmee	SCONJ
 jy	PRON
-jou	DET
+jou	PRON
 besigheid	NOUN
 dryf	VERB
 
@@ -8726,7 +8726,7 @@ Ook	ADV
 nooit	ADV
 verduidelik	VERB
 waar	SCONJ
-sy	DET
+sy	PRON
 blou	ADJ
 oog	NOUN
 vandaan	ADV
@@ -8750,7 +8750,7 @@ Die	DET
 voertuig	NOUN
 kan	AUX
 moontlik	ADV
-sy	DET
+sy	PRON
 debuut	NOUN
 tydens	ADP
 Sun	PROPN
@@ -8773,7 +8773,7 @@ verhoog	VERB
 ook	ADV
 blootstelling	NOUN
 van	ADP
-u	DET
+u	PRON
 borge	NOUN
 
 Maar	CCONJ
@@ -8830,7 +8830,7 @@ te	PART
 los	VERB
 .	PUNCT
 
-Sy	DET
+Sy	PRON
 effek	NOUN
 is	AUX
 om	SCONJ
@@ -8848,19 +8848,19 @@ myself	PRON
 rekenskap	NOUN
 gee	VERB
 oor	ADP
-my	DET
+my	PRON
 motiewe	NOUN
 
 En	CCONJ
 ek	PRON
 maak	VERB
-my	DET
+my	PRON
 oë	NOUN
 toe	ADV
 en	CCONJ
 dink	VERB
 aan	ADP
-my	DET
+my	PRON
 bankstaat	NOUN
 
 Voeg	VERB
@@ -8888,10 +8888,10 @@ Sy	PRON
 het	AUX
 geroer	VERB
 in	ADP
-my	DET
+my	PRON
 arms	NOUN
 en	CCONJ
-haar	DET
+haar	PRON
 oë	NOUN
 oopgemaak	VERB
 
@@ -8953,7 +8953,7 @@ en	CCONJ
 vreugde	NOUN
 
 Voor	ADP
-haar	DET
+haar	PRON
 bed	NOUN
 is	AUX
 'n	DET
@@ -9013,7 +9013,7 @@ van	ADP
 die	DET
 vervulling	NOUN
 van	ADP
-sy	DET
+sy	PRON
 profesie	NOUN
 het	AUX
 nou	ADV
@@ -9096,7 +9096,7 @@ gebeur	VERB
 nie	PART
 .	PUNCT
 
-Jou	DET
+Jou	PRON
 begeerte	NOUN
 na	ADP
 eer	NOUN
@@ -9112,7 +9112,7 @@ uitgewers	NOUN
 behou	VERB
 met	ADP
 moeite	NOUN
-hul	DET
+hul	PRON
 rakruimte	NOUN
 in	ADP
 boekwinkels	NOUN
@@ -9125,7 +9125,7 @@ weg	NOUN
 ,	PUNCT
 verheug	ADJ
 oor	ADP
-sy	DET
+sy	PRON
 goeie	ADJ
 geluk	NOUN
 
@@ -9141,12 +9141,12 @@ groei	VERB
 
 Ek	PRON
 het	AUX
-my	DET
+my	PRON
 skoene	NOUN
 uitgeskop	VERB
 en	CCONJ
 in	ADP
-jou	DET
+jou	PRON
 oë	NOUN
 opgekyk	VERB
 
@@ -9194,7 +9194,7 @@ hanteer	VERB
 
 Partykeer	ADV
 word	AUX
-jou	DET
+jou	PRON
 waentjie	NOUN
 omgegooi	VERB
 .	PUNCT
@@ -9347,7 +9347,7 @@ Een	NUM
 manier	NOUN
 is	AUX
 om	SCONJ
-jou	DET
+jou	PRON
 verhaal	NOUN
 op	ADP
 werklike	ADJ
@@ -9385,7 +9385,7 @@ so	ADV
 verlang	VERB
 het	AUX
 :	PUNCT
-sy	DET
+sy	PRON
 vryheid	NOUN
 
 Tog	ADV
@@ -9433,7 +9433,7 @@ doen	VERB
 Moslems	NOUN
 sal	AUX
 verder	ADV
-hulle	DET
+hulle	PRON
 invloed	NOUN
 in	ADP
 Wes	PROPN
@@ -9494,7 +9494,7 @@ ook	ADV
 die	DET
 gevolge	NOUN
 van	ADP
-sy	DET
+sy	PRON
 dade	NOUN
 dra	VERB
 
@@ -9553,7 +9553,7 @@ en	CCONJ
 leun	VERB
 agteroor	ADV
 in	ADP
-sy	DET
+sy	PRON
 stoel	NOUN
 
 Nog	ADV
@@ -9676,7 +9676,7 @@ Engels	PROPN
 
 Hy	PRON
 het	AUX
-sy	DET
+sy	PRON
 verslawing	NOUN
 erken	VERB
 en	CCONJ
@@ -9763,7 +9763,7 @@ vorme	NOUN
 
 Hy	PRON
 trek	VERB
-sy	DET
+sy	PRON
 kop	NOUN
 terug	ADV
 en	CCONJ
@@ -9921,7 +9921,7 @@ daar	ADV
 weg	ADV
 verheug	ADJ
 oor	ADP
-sy	DET
+sy	PRON
 goeie	ADJ
 geluk	NOUN
 .	PUNCT
@@ -9949,7 +9949,7 @@ liefde	NOUN
 van	ADP
 Christus	PROPN
 vir	ADP
-sy	DET
+sy	PRON
 kerk	NOUN
 
 Albei	DET
@@ -9990,7 +9990,7 @@ het	AUX
 openbaring	NOUN
 gegee	VERB
 aan	ADP
-Sy	DET
+Sy	PRON
 verwerping	NOUN
 
 Die	DET
@@ -10018,7 +10018,7 @@ Daar	ADV
 is	AUX
 gapings	NOUN
 in	ADP
-my	DET
+my	PRON
 geheue	NOUN
 oor	ADP
 daardie	DET
@@ -10237,7 +10237,7 @@ begin	VERB
 Weereens	ADV
 vra	VERB
 ons	PRON
-u	DET
+u	PRON
 hulp	NOUN
 met	ADP
 hierdie	DET
@@ -10271,7 +10271,7 @@ uit	ADV
 .	PUNCT
 
 Met	ADP
-my	DET
+my	PRON
 aankoms	NOUN
 kry	VERB
 ek	PRON
@@ -10335,7 +10335,7 @@ weg	ADV
 te	PART
 gee	VERB
 aan	ADP
-jou	DET
+jou	PRON
 vrou	NOUN
 
 Dit	PRON
@@ -10443,7 +10443,7 @@ Ja	INTJ
 ,	PUNCT
 u	PRON
 kan	AUX
-u	DET
+u	PRON
 kind	NOUN
 by	ADP
 enige	DET
@@ -10532,7 +10532,7 @@ nie	PART
 
 Bid	VERB
 dat	SCONJ
-jou	DET
+jou	PRON
 dorpstad	NOUN
 as	ADP
 n	DET
@@ -10587,7 +10587,7 @@ Paulus	PROPN
 ook	ADV
 kla	VERB
 oor	ADP
-sy	DET
+sy	PRON
 omstandighede	NOUN
 
 Heeltemal	ADV
@@ -10624,7 +10624,7 @@ blues	NOUN
 Oorspronklike	ADJ
 grappe	NOUN
 uit	ADP
-jou	DET
+jou	PRON
 kontrei	NOUN
 nie	PART
 afgeskryf	VERB
@@ -10638,7 +10638,7 @@ jouself	PRON
 toe	ADV
 aan	ADP
 God	PROPN
-jou	DET
+jou	PRON
 redder	NOUN
 in	ADP
 die	DET
@@ -10673,7 +10673,7 @@ geneem	VERB
 deur	ADP
 Farao	PROPN
 en	CCONJ
-sy	DET
+sy	PRON
 koninkryk	NOUN
 
 So	ADV
@@ -10704,7 +10704,7 @@ regop	ADJ
 ,	PUNCT
 pluk	VERB
 aan	ADP
-sy	DET
+sy	PRON
 tekkieveters	NOUN
 en	CCONJ
 val	VERB
@@ -10772,7 +10772,7 @@ Dit	PRON
 hang	VERB
 heeltemal	ADV
 van	ADP
-jou	DET
+jou	PRON
 omstandighede	NOUN
 en	CCONJ
 voorkeure	NOUN
@@ -10881,7 +10881,7 @@ nie	PART
 Ook	ADV
 al	ADV
 lyk	VERB
-sy	DET
+sy	PRON
 opdrag	NOUN
 aan	ADP
 Abram	PROPN
@@ -11024,7 +11024,7 @@ storie	NOUN
 begin	VERB
 reeds	ADV
 in	ADP
-my	DET
+my	PRON
 tienerjare	NOUN
 .	PUNCT
 
