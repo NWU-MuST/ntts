@@ -1,7 +1,7 @@
 ( data_0001 "U{Henry} {Fynn} u{fake} u{bhememe} we{sigqoko} esino{mpheme} o{mude}." )
 ( data_0002 "I{nhlangano} e{thile} yeze{mvelo} iyo{phelelwa} y{isikhathi} uma u{mhlaba} ungasa{setshenziselwa} izi{nhloso} zok{ongiwa} kwe{mvelo}." )
 ( data_0003 "Uma ku{njalo} u{mhlaba} uyo{balelwa} njengoku{sebenza} kwawo o{kusha} ku{sukela} ngo{suku} okwa{qala} ngalo." )
-( data_0004 "Uma ku{nikezwe} ngo{lwazi} lo{muntu} {siqu} kule we{bhusayithi}, a{basebenzi}si aba{fisa} uku{buyekeza} u{lwazi} lwabo bang{enza} lokho nge{sicelo} soku{cela} uku{buyekeza} ngoku{sebenzisa} i{linki} ye{feyisibhuku}." )
+( data_0004 "Uma ku{nikezwe} ngo{lwazi} lo{muntu} {siqu} kule {webhusayithi}, a{basebenzi}si aba{fisa} uku{buyekeza} u{lwazi} lwabo bang{enza} lokho nge{sicelo} soku{cela} uku{buyekeza} ngoku{sebenzisa} i{linki} ye{feyisibhuku}." )
 ( data_0005 "Sine{simemezelo} e{senziwe} yilowo {muntu} e{sho} ukuthi ngo{kwazi} nangoku{kholwa} kwakhe siyi{qiniso}." )
 ( data_0006 "Sine{simemezelo} lapho e{sho} khona ukuthi, us{enze} eno{lwazi} loku{thi} kung{enzeka} a{thola}kale ene{cala}, uma e{bazi} ukuthi akusilo i{qiniso}." )
 ( data_0007 "Isi{landisostatemente} leso si{khonjiswe} omunye o{thinte}kayo kulolu {daba}, kusa{sele} oku{ngena}ni izi{nsuku} eziyi{sikhombisa} nga{phambi} ko{suku} loku{phenywa} ko{daba}." )
