@@ -10,4 +10,12 @@ This directory contains text resources intended for R&D of Setswana TTS systems.
  - `tsn_lwazi2_htsmelp16k_nopause_baseline_20170430.voice.pickle` is a "baseline" Lwazi2 TTS system implementation.
  - `tsn_lwazi2_htsmelp16k_nopause_newproto_20170430.voice.pickle` is a prototype Lwazi2 TTS system using additional vowel distinctions and _content/function_ distinction.
 
+## Evaluation
+
+To calculate agreement statistics for the prominence annotation, the following can be used:
+
+```bash
+tail -n +2 lwazi2_utts.tsn.prom.tsv | cut -f 2- | sed '/^$/d' | python scripts/print_agreement_stats.py
+```
+
 [rma:tsn]: http://rma.nwu.ac.za/index.php/lwazi2-tn-tts-corpus.html

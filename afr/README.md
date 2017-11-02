@@ -7,4 +7,13 @@ This directory contains text resources and TTS prototypes intended for R&D of Af
  - `afr_lwazi2_htsmelp16k_nopause_rcrldict_20170430.voice.pickle` is a "baseline" Lwazi2 TTS system implementation.
  - `afr_lwazi2_htsmelp16k_nopause_stressdict_20170430.voice.pickle` is a prototypes Lwazi2 TTS system using a dictionary containing syllable stress information.
 
+## Evaluation
+
+To calculate agreement statistics for the prominence annotation, the following can be used:
+
+```bash
+tail -n +2 lwazi2_utts.prom.tsv | cut -f 2- | sed '/^$/d' | python scripts/print_agreement_stats.py
+```
+
+
 [rma:afr]: http://rma.nwu.ac.za/index.php/lwazi2-afr-tts-corpus.html

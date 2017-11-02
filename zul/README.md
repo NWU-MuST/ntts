@@ -9,4 +9,14 @@ This directory contains text resources intended for R&D of isiZulu TTS systems. 
  - `zul_lwazi2_htsmelp16k_nopause_baseline_20170430.voice.pickle` is a "baseline" Lwazi2 TTS system implementation.
  - `zul_lwazi2_htsmelp16k_nopause_newproto_20170430.voice.pickle` is a prototype Lwazi2 TTS system using additional morphological processing.
 
+
+## Evaluation
+
+To calculate agreement statistics for the prominence annotation, the following can be used:
+
+```bash
+tail -n +2 lwazi2_utts.zul.prom.tsv | cut -f 2- | sed '/^$/d' | python scripts/print_agreement_stats.py
+```
+
+
 [rma:zul]: http://rma.nwu.ac.za/index.php/lwazi2-zu-tts-corpus.html
